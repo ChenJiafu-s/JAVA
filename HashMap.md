@@ -4,6 +4,8 @@
 
 # HashMap
 
+参考博文：https://blog.csdn.net/zhangerqing/article/details/8193118
+
 ## HashMap的内部存储结构
 
 HashMap的内部存储结构：哈希表。一般实现哈希表的方法采用“拉链法”。
